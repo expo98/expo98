@@ -1,15 +1,10 @@
-<h2 align="left">Hi 👋! My name is Miguel Pereira and I'm a CS student, in Coimbra, Portugal</h2>
+# 👽 Miguel Pereira
 
-###
+**`Computer Science Student`**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=expo98&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=expo98&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
-</div>
+I'm computer science student and since a young age have been obsessed with computers, especially machine learning. Most projects here are from college, but you'll see some personal ones sprinkled around. Every college project are finished and not 
 
-###
-
-<div align="center">
+   <div align="center">
   <a href="https://instagram.com/migueltmpereira" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
 </a>
@@ -19,6 +14,29 @@
 <a href="https://linkedin.com/in/migueltmpereira" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
+<a href="https://x.com/migueltmpereira>" target="_blank">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/migueltmpereira?style=for-the-badge"
+    height="35">
+</a>
 </div>
 
-###
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+#
+
+### 📊 Stats
+
+![Expo98's GitHub stats](https://github-readme-stats.vercel.app/api?username=expo98&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=expo98&theme=gruvbox&border_radius=4.5) 
+
