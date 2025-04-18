@@ -39,7 +39,7 @@ I'm computer science student and since a young age have been obsessed with compu
 
 ![Expo98's GitHub stats](https://github-readme-stats.vercel.app/api?username=expo98&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expo98&layout=donut&show_icons=true&theme=tokyonight)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expo98&layout=donut&show_icons=true&theme=tokyonight)] 
 #
 <!--
 <details>
