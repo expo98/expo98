@@ -2,7 +2,8 @@
 
 **`Computer Science Student`**
 
-I'm computer science student and since a young age have been obsessed with computers, especially machine learning. Most projects here are from college, but you'll see some personal ones sprinkled around. Every college project are finished and not 
+I'm computer science student and since a young age have been obsessed with computers, especially machine learning. Most projects here are from college, but you'll see some personal ones sprinkled around.
+
 
    <div align="center">
   <a href="https://instagram.com/migueltmpereira" target="_blank">
